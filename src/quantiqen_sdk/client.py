@@ -28,7 +28,7 @@ from .telemetry import (
     build_span_event,
 )
 
-SDK_VERSION = "0.1.1"
+SDK_VERSION = "0.1.2"
 SDK_LANGUAGE = "python"
 DEFAULT_BATCH_SIZE = 100
 DEFAULT_FLUSH_INTERVAL_MS = 5000

@@ -143,7 +143,7 @@ class TestResponseHandling:
             meta = body["events"][0]["metadata"]
             assert meta["customField"] == "customValue"
             assert meta["sdkLanguage"] == "python"
-            assert meta["sdkVersion"] == "0.1.1"
+            assert meta["sdkVersion"] == "0.1.2"
             assert "quantiqen-sdk-python" in meta["userAgent"]
 
 

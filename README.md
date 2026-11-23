@@ -12,7 +12,7 @@ Client-side batching, automatic retry with exponential backoff, and proactive ra
 pip install quantiqen-sdk
 
 # Or from git:
-pip install "git+https://github.com/kalidashodekare14/quantiqen-sdk-python.git@main"
+pip install "git+https://github.com/BMPinfotech/quantiqen-sdk-python.git@main"
 ```
 
 ## Quickstart

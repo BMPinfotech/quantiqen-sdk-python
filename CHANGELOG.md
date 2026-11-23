@@ -5,6 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.2] - 2026-11-23
+
+### Changed
+
+- Repository moved to the BMPinfotech organization:
+  `https://github.com/BMPinfotech/quantiqen-sdk-python`. Homepage, repository,
+  and issue links (plus the README install-from-git command) now point at the
+  new location.
+
 ## [0.1.1] - 2026-10-13
 
 ### Added
@@ -49,5 +58,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `flush()` now drains the entire event queue instead of a single batch.
 - A `Retry-After` pause is no longer re-applied after it has elapsed.
 
-[0.1.1]: https://github.com/kalidashodekare14/quantiqen-sdk-python/releases/tag/v0.1.1
-[0.1.0]: https://github.com/kalidashodekare14/quantiqen-sdk-python/releases/tag/v0.1.0
+[0.1.2]: https://github.com/BMPinfotech/quantiqen-sdk-python/releases/tag/v0.1.2
+[0.1.1]: https://github.com/BMPinfotech/quantiqen-sdk-python/releases/tag/v0.1.1
+[0.1.0]: https://github.com/BMPinfotech/quantiqen-sdk-python/releases/tag/v0.1.0
